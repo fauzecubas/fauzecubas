@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fauzecubas!
-- 👀 Web Developer, student and soccer lover.
+- 👀 Web Developer and Bachelor's Degree in Computer Science at Universidade Federal do Paraná.
 - 🌱 I’m currently learning so much about Typescript, Vue.js and GraphQL.
 - 📫 You can reach me by e-mail: fauzehenrique01@gmail.com
 
