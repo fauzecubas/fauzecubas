@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning so much about Typescript, Vue.js and GraphQL.
 - 📫 You can reach me by e-mail: fauzehenrique01@gmail.com
 
-<!---
-fauzecubas/fauzecubas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fauzecubas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzecubas&layout=compact&langs_count=7&theme=dracula"/>
+</div>
