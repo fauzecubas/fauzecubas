@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fauzecubas!
 - 👀 Web Developer and Bachelor's Degree in Computer Science at Universidade Federal do Paraná.
-- 🌱 I’m currently learning so much about Typescript, Vue.js and GraphQL.
+- 🌱 I’m currently learning about Javascript, Vue.js and Quasar Framework.
 - 📫 You can reach me by e-mail: fauzehenrique01@gmail.com
 
 <div align="center">
